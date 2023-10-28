@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\luavim\luavim\bin\Debug\luavim.exe.config
+C:\Users\Admin\source\repos\luavim\luavim\bin\Debug\luavim.exe
+C:\Users\Admin\source\repos\luavim\luavim\bin\Debug\luavim.pdb
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.Form1.resources
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.Properties.Resources.resources
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.exe
+C:\Users\Admin\source\repos\luavim\luavim\obj\Debug\luavim.pdb
