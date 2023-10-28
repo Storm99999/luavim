@@ -15,4 +15,4 @@ Open source lua editor made in C# and JS.
 
 # config commands
 * `#cf > ~/root/lv2.sidebar.select_on_click` {makes the sidebar useful, goes from terminal based to a VS Code type of editor, ...}
-* `#cf > ~/dev/themes/lv2.default` {opens theme config, ...}
+* `#cf > ~/dev/themes/lv2.default` {opens theme config [UNFINISHED], ...}
