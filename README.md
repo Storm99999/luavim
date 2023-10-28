@@ -10,6 +10,7 @@ Open source lua editor made in C# and JS.
 * main ... [ex: main], {goes back to `src` directory within the project, ...}
 * openf ... [ex: openf test.lua], {opens a text file to write in it, ...}
 * relf ... [ex: relf], {writes the input taken from the editor straight to the file you used openf on, ...}
+* exit ... [ex: exit], {exits the luavim environment, ...}
 * ls ... [ex: ls], {lists all files within current folder, ...}
 
 # config commands
