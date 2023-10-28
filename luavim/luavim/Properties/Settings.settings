@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="luavim.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="projLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="currentDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="currFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="select_on_click" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sidebarImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nan</Value>
+    </Setting>
+    <Setting Name="directoryImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nan</Value>
+    </Setting>
+    <Setting Name="terminalImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nan</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
