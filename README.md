@@ -1,5 +1,6 @@
 # luavim
 Open source lua editor made in C# and JS.
+![alt text](https://media.discordapp.net/attachments/1164859902573948990/1167902273423290428/image.png)
 
 # commands
 * mkfile ... [ex: mkfile test.lua]
